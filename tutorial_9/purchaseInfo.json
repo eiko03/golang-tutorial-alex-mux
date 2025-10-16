@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fitzgerald Sheppard",
+    "price": 36,
+    "amount": 21
+  },
+  {
+    "name": "Mcconnell Gaines",
+    "price": 25,
+    "amount": 33
+  },
+  {
+    "name": "Samantha Knowles",
+    "price": 39,
+    "amount": 26
+  },
+  {
+    "name": "Christy Leon",
+    "price": 34,
+    "amount": 34
+  },
+  {
+    "name": "Dean Sandoval",
+    "price": 33,
+    "amount": 25
+  },
+  {
+    "name": "Ada Valenzuela",
+    "price": 31,
+    "amount": 39
+  }
+]
